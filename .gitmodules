@@ -16,3 +16,6 @@
 [submodule "submodules/Chem3DLLM"]
 	path = submodules/Chem3DLLM
 	url = https://github.com/Joe-J/Chem3DLLM.git
+[submodule "submodules/NV-Tesseract"]
+	path = submodules/NV-Tesseract
+	url = https://github.com/NVIDIA/NV-Tesseract.git
