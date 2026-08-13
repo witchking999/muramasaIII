@@ -16,3 +16,6 @@
 [submodule "submodules/Chem3DLLM"]
 	path = submodules/Chem3DLLM
 	url = https://github.com/Joe-J/Chem3DLLM.git
+[submodule "submodules/Time-series-Tokenization-For-LLMs"]
+	path = submodules/Time-series-Tokenization-For-LLMs
+	url = https://github.com/shamsua/Time-series-Tokenization-For-LLMs
